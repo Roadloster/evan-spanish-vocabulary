@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "packId": "argentina-life-001",
+  "version": 1,
+  "publishedAt": "2026-10-02",
+  "words": [
+    {"id":10001,"category":"政府办事","spanish":"el trámite","chinese":"手续／办事流程","pronunciation":"埃尔 特拉米特","example":"Tengo que hacer un trámite.｜我需要办理一个手续。"},
+    {"id":10002,"category":"政府办事","spanish":"el turno","chinese":"预约时段","pronunciation":"埃尔 图尔诺","example":"Saqué un turno por internet.｜我在网上预约了时间。"},
+    {"id":10003,"category":"政府办事","spanish":"el formulario","chinese":"表格","pronunciation":"埃尔 福尔穆拉里奥","example":"Completá este formulario.｜请填写这张表格。"},
+    {"id":10004,"category":"政府办事","spanish":"el comprobante","chinese":"证明／凭证","pronunciation":"埃尔 孔普罗万特","example":"Guardá el comprobante.｜请保留凭证。"},
+    {"id":10005,"category":"政府办事","spanish":"el domicilio","chinese":"登记地址／住所","pronunciation":"埃尔 多米西利奥","example":"Necesito acreditar el domicilio.｜我需要证明住址。"},
+    {"id":10006,"category":"银行金融","spanish":"la cuenta bancaria","chinese":"银行账户","pronunciation":"拉 昆塔 班卡里亚","example":"Quiero abrir una cuenta bancaria.｜我想开一个银行账户。"},
+    {"id":10007,"category":"银行金融","spanish":"el saldo","chinese":"余额","pronunciation":"埃尔 萨尔多","example":"Quiero consultar el saldo.｜我想查询余额。"},
+    {"id":10008,"category":"银行金融","spanish":"la cuota","chinese":"分期款／一期付款","pronunciation":"拉 库奥塔","example":"Lo pago en seis cuotas.｜我分六期付款。"},
+    {"id":10009,"category":"银行金融","spanish":"el vencimiento","chinese":"到期日","pronunciation":"埃尔 本西米恩托","example":"¿Cuándo es el vencimiento?｜什么时候到期？"},
+    {"id":10010,"category":"银行金融","spanish":"el débito automático","chinese":"自动扣款","pronunciation":"埃尔 德比托 奥托马蒂科","example":"Adherilo al débito automático.｜把它设为自动扣款。"},
+    {"id":10011,"category":"房产邻里","spanish":"la escritura","chinese":"房产契据","pronunciation":"拉 埃斯克里图拉","example":"Tenemos que firmar la escritura.｜我们需要签署房产契据。"},
+    {"id":10012,"category":"房产邻里","spanish":"el boleto de compraventa","chinese":"房屋买卖预合同","pronunciation":"埃尔 博莱托 德 孔普拉本塔","example":"Revisá el boleto de compraventa.｜请检查买卖预合同。"},
+    {"id":10013,"category":"房产邻里","spanish":"el escribano / la escribana","chinese":"公证人","pronunciation":"埃尔 埃斯克里瓦诺","example":"Consultalo con la escribana.｜请向公证人咨询。"},
+    {"id":10014,"category":"房产邻里","spanish":"la medianera","chinese":"共用边界墙","pronunciation":"拉 梅迪亚内拉","example":"La medianera separa los terrenos.｜边界墙分隔两块土地。"},
+    {"id":10015,"category":"房产邻里","spanish":"el vecino / la vecina","chinese":"邻居","pronunciation":"埃尔 贝西诺","example":"Hablé con el vecino.｜我和邻居谈过了。"},
+    {"id":10016,"category":"工作商务","spanish":"la reunión","chinese":"会议","pronunciation":"拉 雷乌尼翁","example":"Tenemos una reunión mañana.｜我们明天有会议。"},
+    {"id":10017,"category":"工作商务","spanish":"el contrato","chinese":"合同","pronunciation":"埃尔 孔特拉托","example":"Leé el contrato antes de firmar.｜签字前阅读合同。"},
+    {"id":10018,"category":"工作商务","spanish":"el plazo","chinese":"期限","pronunciation":"埃尔 普拉索","example":"Confirmemos el plazo de entrega.｜确认一下交付期限。"},
+    {"id":10019,"category":"工作商务","spanish":"la cotización","chinese":"报价单／报价","pronunciation":"拉 科蒂萨西翁","example":"Mandame la cotización por correo.｜请把报价发到邮箱。"},
+    {"id":10020,"category":"工作商务","spanish":"el recibo","chinese":"收据／工资单","pronunciation":"埃尔 雷西沃","example":"Necesito el recibo firmado.｜我需要签字后的收据。"}
+  ]
+}
